@@ -1,0 +1,6 @@
+$ curl -X GET https://api.github.com/repos/ibm-developer-skills-network/mcintro-to-git-and-github
+
+{
+  "full_name": "your-username/mcintro-to-git-and-github",
+  "fork": true
+}
