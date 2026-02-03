@@ -1,10 +1,6 @@
-# Simple Interest Calculator
+# github-final-project
 
-This project is a simple Bash-based calculator that computes simple interest
-based on user-provided inputs such as principal amount, rate of interest,
-and time period.
+This repository contains the final project for the Introduction to Git and GitHub course.
 
-## Project Details
-- Language: Bash
-- Purpose: Educational demonstration of Git and GitHub usage
-- License: Apache 2.0
+The project demonstrates the use of GitHub UI and Git CLI concepts, including repository creation,
+license management, code of conduct, contribution guidelines, and a simple Bash script.
